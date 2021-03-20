@@ -11,9 +11,26 @@ h1 {
     font-family: verdana;
 }
 
-h3 {
+h2 {
+    color: white;
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.description {
+    color: gray;
+    font-size: 21px;
+    font-family: Verdana;
+}
+
+.link--cta {
     color: aquamarine;
     font-size: 16px;
     text-align: center;
     font-weight: lighter;
+}
+.copyright {
+    text-align: right;
+    color: gray;
 }
